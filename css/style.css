@@ -1,0 +1,33 @@
+body {
+  width: 900px;
+  margin: 0 auto;
+  overflow: scroll;
+  font-family: serif;
+    font-size: 18px;
+   font-color: white;
+}
+h4 {
+  font-size: 24px;
+}
+
+#content {
+  background-color: #eaecef;
+}
+
+#container {
+  position: relative;
+}
+
+#rules-container {
+  margin-top: 30px;
+  float: center;
+  width: 55%;
+  background-size: cover;
+  background-color: #ccffcc;
+
+}
+
+#game-container {
+  float: center;
+  width: 600px;
+}
