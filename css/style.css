@@ -3,15 +3,18 @@ body {
   margin: 0 auto;
   overflow: scroll;
   font-family: serif;
-    font-size: 18px;
-   font-color: white;
-}
+  font-size: 18px;
+  background-color: 
+h2 {
+  color: #f7f9fc;
+  }
+  
 h4 {
   font-size: 24px;
 }
 
 #content {
-  background-color: #eaecef;
+  background-color: #fff;
 }
 
 #container {
